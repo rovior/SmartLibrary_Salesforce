@@ -35,11 +35,18 @@ O **Smart Library** é um ecossistema completo de CRM customizado para a gestão
 ---
 
 ## 📸 Demonstração Visual
-> **Dica:** Adicione aqui prints do seu Schema Builder e dos seus Dashboards!
 
 | Schema Builder (Modelo de Dados) | Dashboard de Performance |
 |---|---|
-| ![Link da Imagem 1](https://via.placeholder.com/400x200?text=Prints+do+Modelo+de+Dados) | ![Link da Imagem 2](https://via.placeholder.com/400x200?text=Prints+dos+Relatorios) |
+| ![Link da Imagem 1](<img width="1690" height="941" alt="image" src="https://github.com/user-attachments/assets/b8346b05-539e-45ea-aa01-2d658d20aff8" />
+) | ![Link da Imagem 2](<img width="1690" height="941" alt="image" src="https://github.com/user-attachments/assets/3c3b551e-55b8-4b21-83f1-82243847b252" />
+) |
+
+---
+
+## 🗂️ Arquitetura de Dados
+
+(Desenvolvendo diagrama de classe)
 
 ---
 
@@ -49,4 +56,4 @@ O **Smart Library** é um ecossistema completo de CRM customizado para a gestão
 - [ ] Configuração de Experience Cloud para portal do leitor.
 
 ---
-**Desenvolvido por [Seu Nome]** *Estudante de Economia Aplicada focado em Soluções de Tecnologia e Automação.*
+**Desenvolvido por [ROBERT BARROS]** *Desenvolvedor de Sistemas focado em Soluções de problemas e Automação.*
